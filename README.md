@@ -1,12 +1,42 @@
-# React + Vite
+# 🏋️‍♂️ FITNATION
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/user-attachments/assets/0f984ff4-380e-4ad4-9790-0dfae33896c8)
+![image](https://github.com/user-attachments/assets/2a9cdab9-9d14-46fe-bd1a-eff6082efb78)
+![image](https://github.com/user-attachments/assets/0c78976c-ed60-4764-b899-83f0256e0596)
+![image](https://github.com/user-attachments/assets/a776562a-3c02-456a-a1f7-1fc8c5654841)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A modern fitness club website showcasing services, facilities, and exclusive merchandise. Built with React and Tailwind CSS to deliver a sleek and responsive user experience.
 
-## Expanding the ESLint configuration
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FITNATION-brightgreen?style=for-the-badge)](https://fitnation-black.vercel.app/)  
+[![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://reactjs.org/)  
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1-purple?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+📌 **Core Sections**
+- Hero section with brand slogan
+- Services overview
+- Facility showcase
+- Merchandise section (Water Bottles, Gym Bags, Jackets)
+- Clean footer navigation
+
+🎨 **Design & UX**
+- Modern, dark theme
+- Mobile-responsive layout
+- Tailwind CSS utility-first styling
+
+⚙️ **Tech Stack**
+- React functional components
+- Tailwind CSS for styling
+- Fully responsive design
+
+---
+
+### 🚀 Installation
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/fitnation.git
