@@ -40,7 +40,7 @@ const Home = () => {
   };
 
   return (
-    <section className="relative w-full min-h-screen bg-black text-white overflow-hidden px-10">
+    <section className="relative w-full min-h-screen bg-black text-white overflow-hidden md:px-10">
       {/* Background image with parallax effect */}
       <motion.div 
         className="absolute inset-0 bg-cover bg-center"

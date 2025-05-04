@@ -40,7 +40,7 @@ const Navbar = () => {
 
   return (
     <motion.nav 
-      className="sticky top-0 z-50 bg-black/90 backdrop-blur-sm text-white border-b border-gray-800 px-10"
+      className="sticky top-0 z-50 bg-black/90 backdrop-blur-sm text-white border-b border-gray-800 px-3 md:px-10"
       initial={{ y: -100 }}
       animate={{ y: 0 }}
       transition={{ duration: 0.5, type: "spring" }}
