@@ -58,7 +58,7 @@ const Home = () => {
 
       {/* Content container */}
       <motion.div 
-        className="relative z-10 container mx-auto px-6 mt-50 h-full flex flex-col lg:flex-row items-center justify-between"
+        className="relative z-10 container mx-auto px-6 mt-30 md:mt-50 h-full flex flex-col lg:flex-row items-center justify-between"
         initial="hidden"
         animate="visible"
         variants={containerVariants}
